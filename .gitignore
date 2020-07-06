@@ -16,3 +16,8 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
+
+.rakeTasks
+.idea/*
+.generators
+Procfile.dev

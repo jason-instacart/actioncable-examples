@@ -13,6 +13,8 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 
 gem 'jbuilder', '~> 2.0'
+gem 'anycable', path: "/Users/jasonhe/dev/try/anycable-twirp"
+gem 'anycable-rails'
 
 group :development, :test do
   gem 'byebug'
